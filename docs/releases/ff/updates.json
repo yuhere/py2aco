@@ -154,6 +154,15 @@
               "strict_min_version": "60"
             }
           }
+        },
+        {
+          "version": "1.2.3",
+          "update_link": "https://yuhere.github.io/py2aco/releases/ff/aco-1.2.3-fx.xpi",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "60"
+            }
+          }
         }
       ]
     }
