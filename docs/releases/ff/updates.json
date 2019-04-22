@@ -1,0 +1,152 @@
+{
+  "addons": {
+    "{f21f7293-67ac-4b13-ad16-fdff2110ded6}": {
+      "updates": [
+        {
+          "version": "1.0.9",
+          "update_link": "https://yuhere.github.io/py2aco/releases/ff/aco-1.0.9-fx.xpi",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "60"
+            }
+          }
+        },
+        {
+          "version": "1.0.10",
+          "update_link": "https://yuhere.github.io/py2aco/releases/ff/aco-1.0.10-fx.xpi",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "60"
+            }
+          }
+        },
+        {
+          "version": "1.0.11",
+          "update_link": "https://yuhere.github.io/py2aco/releases/ff/aco-1.0.11-fx.xpi",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "60"
+            }
+          }
+        },
+        {
+          "version": "1.0.12",
+          "update_link": "https://yuhere.github.io/py2aco/releases/ff/aco-1.0.12-fx.xpi",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "60"
+            }
+          }
+        },
+        {
+          "version": "1.0.13",
+          "update_link": "https://yuhere.github.io/py2aco/releases/ff/aco-1.0.13-fx.xpi",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "60"
+            }
+          }
+        },
+        {
+          "version": "1.0.14",
+          "update_link": "https://yuhere.github.io/py2aco/releases/ff/aco-1.0.14-fx.xpi",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "60"
+            }
+          }
+        },
+        {
+          "version": "1.0.15",
+          "update_link": "https://yuhere.github.io/py2aco/releases/ff/aco-1.0.15-fx.xpi",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "60"
+            }
+          }
+        },
+        {
+          "version": "1.0.16",
+          "update_link": "https://yuhere.github.io/py2aco/releases/ff/aco-1.0.16-fx.xpi",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "60"
+            }
+          }
+        },
+        {
+          "version": "1.0.17",
+          "update_link": "https://yuhere.github.io/py2aco/releases/ff/aco-1.0.17-fx.xpi",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "60"
+            }
+          }
+        },
+        {
+          "version": "1.1.2",
+          "update_link": "https://yuhere.github.io/py2aco/releases/ff/aco-1.1.2-fx.xpi",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "60"
+            }
+          }
+        },
+        {
+          "version": "1.1.3",
+          "update_link": "https://yuhere.github.io/py2aco/releases/ff/aco-1.1.3-fx.xpi",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "60"
+            }
+          }
+        },
+        {
+          "version": "1.1.4",
+          "update_link": "https://yuhere.github.io/py2aco/releases/ff/aco-1.1.4-fx.xpi",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "60"
+            }
+          }
+        },
+        {
+          "version": "1.1.6",
+          "update_link": "https://yuhere.github.io/py2aco/releases/ff/aco-1.1.6-fx.xpi",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "60"
+            }
+          }
+        },
+        {
+          "version": "1.1.7",
+          "update_link": "https://yuhere.github.io/py2aco/releases/ff/aco-1.1.7-fx.xpi",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "60"
+            }
+          }
+        },
+        {
+          "version": "1.1.8",
+          "update_link": "https://yuhere.github.io/py2aco/releases/ff/aco-1.1.8-fx.xpi",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "60"
+            }
+          }
+        },
+        {
+          "version": "1.2.1",
+          "update_link": "https://yuhere.github.io/py2aco/releases/ff/aco-1.2.1-fx.xpi",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "60"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
