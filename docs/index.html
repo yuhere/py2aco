@@ -14,7 +14,7 @@
   <script type="application/javascript">
     jq.$(document).ready(function(){
       console.log("ready...", document);
-      jq.ajax("releases/ff/updates.json").done(function(upd){
+      jq.ajax({url:"releases/ff/updates.json"}).done(function(upd){
         console.log(upd);
       })
     });
