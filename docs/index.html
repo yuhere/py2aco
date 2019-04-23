@@ -8,6 +8,16 @@
 </head>
 <body>
 <div>
+  <ul>
+    <li><a href="http://dde.com/">1.2.3</a></li>  
+  </ul>
+  <script type="application/javascript">
+    jq.$(document).ready(function(){
+      jq.ajax("releases/ff/updates.json").done(function(upd){
+        console.log(upd);
+      })
+    });
+  </script>
 </div>
 </body>
 </html>
