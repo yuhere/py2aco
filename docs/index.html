@@ -8,14 +8,18 @@
 </head>
 <body>
 <div>
-  <ul>
-    <li><a href="http://dde.com/">1.2.3</a></li>  
-  </ul>
+  <ul id="lst"></ul>
   <script type="application/javascript">
     jq.$(document).ready(function(){
       console.log("ready...", document);
       jq.ajax({url:"releases/ff/updates.json"}).done(function(upd){
-        console.log(upd);
+        var upds = upd["addons"]["{f21f7293-67ac-4b13-ad16-fdff2110ded6}"]["updates"];
+        var ul$dom = jq.$(#lst);
+        for (var i=upds.length-1;i>=0;i--) {
+          var html_li = "<li><a href=\"" + upds[i].update_link + "\">" + upds[i].version + "</a></li>";
+          //
+          ul$dom.append(jq.$(html_li));
+        }
       })
     });
   </script>
