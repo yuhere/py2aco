@@ -15,7 +15,12 @@
         var upds = upd["addons"]["{f21f7293-67ac-4b13-ad16-fdff2110ded6}"]["updates"];
         var ul$dom = jq.$("#lst");
         for (var i=upds.length-1;i>=0;i--) {
-          var html_li = "<li><a href=\"" + upds[i].update_link + "\">" + upds[i].version + "</a></li>";
+          var lnk = upds[i].update_link;
+          var name = (function(lnk){
+            var pos1 = lnk.lastIndexOf("/");
+            return lnk.substring(pos1 + 1);
+          })(lnk);
+          var html_li = "<li><a href=\"" + lnk + "\">" + name + "</a></li>";
           ul$dom.append(jq.$(html_li));
         }
       })
