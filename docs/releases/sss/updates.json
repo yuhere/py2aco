@@ -3,8 +3,8 @@
     "{ed305353-6338-4238-99e0-b68ac476330e}": {
       "updates": [
         {
-          "version": "1.0.2",
-          "update_link": "https://yuhere.github.io/py2aco/releases/sss/sss-1.0.2-fx.xpi",
+          "version": "1.0.3",
+          "update_link": "https://yuhere.github.io/py2aco/releases/sss/sss-1.0.3-fx.xpi",
           "applications": {
             "gecko": {
               "strict_min_version": "60"
