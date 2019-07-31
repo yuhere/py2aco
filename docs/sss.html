@@ -12,7 +12,7 @@
   <script type="application/javascript">
     jq.$(document).ready(function(){
       jq.ajax({url:"releases/sss/updates.json"}).done(function(upd){
-        var upds = upd["addons"]["{f21f7293-67ac-4b13-ad16-fdff2110ded6}"]["updates"];
+        var upds = upd["addons"]["{ed305353-6338-4238-99e0-b68ac476330e}"]["updates"];
         var ul$dom = jq.$("#lst");
         for (var i=upds.length-1;i>=0;i--) {
           var lnk = upds[i].update_link;
