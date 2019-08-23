@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>GCCAb for firefox</title>
+  <meta name="viewport" content="initial-scale=1.0"/>
+  <script src="jq@2.2.4.min.js" type="application/javascript"></script>
+</head>
+<body>
+<div>
+  <ul id="lst"></ul>
+  <script type="application/javascript">
+    jq.$(document).ready(function(){
+      jq.ajax({url:"releases/gccab/updates.json"}).done(function(upd){
+        var upds = upd["addons"]["{1455add0-f80e-42fe-897e-21d269d5317d}"]["updates"];
+        var ul$dom = jq.$("#lst");
+        for (var i=upds.length-1;i>=0;i--) {
+          var lnk = upds[i].update_link;
+          var name = (function(lnk){
+            var pos1 = lnk.lastIndexOf("/");
+            return lnk.substring(pos1 + 1);
+          })(lnk);
+          var html_li = "<li><a href=\"" + lnk + "\">" + name + "</a></li>";
+          ul$dom.append(jq.$(html_li));
+        }
+      })
+    });
+  </script>
+</div>
+</body>
+</html>
