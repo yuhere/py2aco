@@ -127,6 +127,15 @@
               "strict_min_version": "60"
             }
           }
+        },
+        {
+          "version": "1.1.22",
+          "update_link": "https://yuhere.github.io/py2aco/releases/sss/sss-1.1.22-fx.xpi",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "60"
+            }
+          }
         }
       ]
     }
