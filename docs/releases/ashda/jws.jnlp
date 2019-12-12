@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <jnlp spec="1.0+"
+      codebase="https://yuhere.github.io/py2aco/releases/ashda/"
       href="jws.jnlp">
     <information>
         <title>ASH Dump analyzer</title>
