@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <jnlp spec="1.0+"
-      codebase="https://stbeehive.oracle.com/content/dav/st/yu.peng@oracle.com's%20Personal%20Workspace/Public%20Documents/ashda/"
       href="jws.jnlp">
     <information>
         <title>ASH Dump analyzer</title>
