@@ -3,16 +3,17 @@
       codebase="https://yuhere.github.io/py2aco/releases/ashda/"
       href="jws.jnlp">
     <information>
-        <title>ASH Dump analyzer Github</title>
+        <title>ASH Dump analyzer</title>
         <vendor>Yu Peng</vendor>
         <homepage href="readme.html"/>
-        <description>ASH Dump analyzer Github</description>
+        <description>ASH Dump analyzer</description>
         <icon href="http://java.sun.com/images/getjava_med.gif"/>
     <offline-allowed/>
     </information>
     <resources>
         <j2se version="1.5+"/>
         <jar href="ashda-0.0.1.jar"/>
+        <jar href="TableLayout.jar"/>
         <jar href="jsch-0.1.54.jar"/>
         <jar href="rhino-1.7.11.jar"/>
     </resources>
