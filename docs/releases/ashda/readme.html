@@ -45,14 +45,17 @@ ASH Dump analyzer
 </li>
 <li>添加权限 $JRE_HOME/lib/security/java.policy(MAC 系统位置：/Library/Java/JavaVirtualMachines/jdk1.7.0_13.jdk/Contents/Home/jre/lib/security /java.policy)；
 
-<pre>grant {
+<pre>// @@@@@@@@@@@@@@@@@@@@@@@@@@ https://docs.oracle.com/javase/jp/7/technotes/guides/security/PolicyFiles.html
+grant {
     permission java.lang.reflect.ReflectPermission "*";
     permission java.lang.RuntimePermission "*";
     permission java.util.PropertyPermission "rhino.stack.style", "read";
-    permission java.util.PropertyPermission "java.io.tmpdir", "read,write";
+    permission java.util.PropertyPermission "java.io.tmpdir", "read";
+    permission java.util.PropertyPermission "user.home", "read";
     permission java.io.FilePermission "&lt;&lt;ALL FILES&gt;&gt;", "read,write,execute";
     permission java.awt.AWTPermission "*";
 };
+// @@@@@@@@@@@@@@@@@@@@@@@@@@
 </pre>
 </li>
 </ul>
