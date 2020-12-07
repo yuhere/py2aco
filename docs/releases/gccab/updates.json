@@ -91,6 +91,15 @@
               "strict_min_version": "60"
             }
           }
+        },
+        {
+          "version": "2.0.1",
+          "update_link": "https://yuhere.github.io/py2aco/releases/gccab/gccab-2.0.1-fx.xpi",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "60"
+            }
+          }
         }
       ]
     }
