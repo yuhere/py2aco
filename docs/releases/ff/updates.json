@@ -30,8 +30,8 @@
           }
         },
         {
-          "version": "1.2.31",
-          "update_link": "https://yuhere.github.io/py2aco/releases/ff/aco-1.2.31-fx.xpi",
+          "version": "1.2.34",
+          "update_link": "https://yuhere.github.io/py2aco/releases/ff/aco-1.2.34-fx.xpi",
           "applications": {
             "gecko": {
               "strict_min_version": "60"
