@@ -55,6 +55,15 @@
               "strict_min_version": "60"
             }
           }
+        },
+        {
+          "version": "1.2.41",
+          "update_link": "https://yuhere.github.io/py2aco/releases/ff/aco-1.2.41-fx.xpi",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "60"
+            }
+          }
         }
       ]
     }
