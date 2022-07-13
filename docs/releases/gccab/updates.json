@@ -1,163 +1,19 @@
 {
   "addons": {
-    "{1455add0-f80e-42fe-897e-21d269d5317d}": {
+    "{1455add0-f80e-42fe-897e-21a47c25317d}": {
       "updates": [
-        {
-          "version": "1.0.2",
-          "update_link": "https://yuhere.github.io/py2aco/releases/gccab/gccab-1.0.2-fx.xpi",
-          "applications": {
-            "gecko": {
-              "strict_min_version": "60"
-            }
-          }
-        },
-        {
-          "version": "1.0.3",
-          "update_link": "https://yuhere.github.io/py2aco/releases/gccab/gccab-1.0.3-fx.xpi",
-          "applications": {
-            "gecko": {
-              "strict_min_version": "60"
-            }
-          }
-        },
-        {
-          "version": "1.0.4",
-          "update_link": "https://yuhere.github.io/py2aco/releases/gccab/gccab-1.0.4-fx.xpi",
-          "applications": {
-            "gecko": {
-              "strict_min_version": "60"
-            }
-          }
-        },
-        {
-          "version": "1.0.5",
-          "update_link": "https://yuhere.github.io/py2aco/releases/gccab/gccab-1.0.5-fx.xpi",
-          "applications": {
-            "gecko": {
-              "strict_min_version": "60"
-            }
-          }
-        },
-        {
-          "version": "1.0.6",
-          "update_link": "https://yuhere.github.io/py2aco/releases/gccab/gccab-1.0.6-fx.xpi",
-          "applications": {
-            "gecko": {
-              "strict_min_version": "60"
-            }
-          }
-        },
-        {
-          "version": "1.0.7",
-          "update_link": "https://yuhere.github.io/py2aco/releases/gccab/gccab-1.0.7-fx.xpi",
-          "applications": {
-            "gecko": {
-              "strict_min_version": "60"
-            }
-          }
-        },
-        {
-          "version": "1.0.8",
-          "update_link": "https://yuhere.github.io/py2aco/releases/gccab/gccab-1.0.8-fx.xpi",
-          "applications": {
-            "gecko": {
-              "strict_min_version": "60"
-            }
-          }
-        },
-        {
-          "version": "1.0.9",
-          "update_link": "https://yuhere.github.io/py2aco/releases/gccab/gccab-1.0.9-fx.xpi",
-          "applications": {
-            "gecko": {
-              "strict_min_version": "60"
-            }
-          }
-        },
-        {
-          "version": "1.0.10",
-          "update_link": "https://yuhere.github.io/py2aco/releases/gccab/gccab-1.0.10-fx.xpi",
-          "applications": {
-            "gecko": {
-              "strict_min_version": "60"
-            }
-          }
-        },
-        {
-          "version": "1.0.12",
-          "update_link": "https://yuhere.github.io/py2aco/releases/gccab/gccab-1.0.12-fx.xpi",
-          "applications": {
-            "gecko": {
-              "strict_min_version": "60"
-            }
-          }
-        },
-        {
-          "version": "2.0.1",
-          "update_link": "https://yuhere.github.io/py2aco/releases/gccab/gccab-2.0.1-fx.xpi",
-          "applications": {
-            "gecko": {
-              "strict_min_version": "60"
-            }
-          }
-        },
-        {
-          "version": "2.0.2",
-          "update_link": "https://yuhere.github.io/py2aco/releases/gccab/gccab-2.0.2-fx.xpi",
-          "applications": {
-            "gecko": {
-              "strict_min_version": "60"
-            }
-          }
-        },
-        {
-          "version": "2.0.3",
-          "update_link": "https://yuhere.github.io/py2aco/releases/gccab/gccab-2.0.3-fx.xpi",
-          "applications": {
-            "gecko": {
-              "strict_min_version": "60"
-            }
-          }
-        },
-        {
-          "version": "2.0.4",
-          "update_link": "https://yuhere.github.io/py2aco/releases/gccab/gccab-2.0.4-fx.xpi",
-          "applications": {
-            "gecko": {
-              "strict_min_version": "60"
-            }
-          }
-        },
-        {
-          "version": "2.0.5",
-          "update_link": "https://yuhere.github.io/py2aco/releases/gccab/gccab-2.0.5-fx.xpi",
-          "applications": {
-            "gecko": {
-              "strict_min_version": "60"
-            }
-          }
-        },
-        {
-          "version": "2.0.6",
-          "update_link": "https://yuhere.github.io/py2aco/releases/gccab/gccab-2.0.6-fx.xpi",
-          "applications": {
-            "gecko": {
-              "strict_min_version": "60"
-            }
-          }
-        },
-        {
-          "version": "2.0.7",
-          "update_link": "https://yuhere.github.io/py2aco/releases/gccab/gccab-2.0.7-fx.xpi",
-          "applications": {
-            "gecko": {
-              "strict_min_version": "60"
-            }
-          }
-        },
         {
           "version": "2.0.8",
           "update_link": "https://yuhere.github.io/py2aco/releases/gccab/gccab-2.0.8-fx.xpi",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "60"
+            }
+          }
+        },
+        {
+          "version": "2.0.12",
+          "update_link": "https://yuhere.github.io/py2aco/releases/gccab/gccab-2.0.12-fx.xpi",
           "applications": {
             "gecko": {
               "strict_min_version": "60"
