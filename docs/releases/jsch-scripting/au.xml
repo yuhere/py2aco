@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deployment codebase="https://yuhere.github.io/py2aco/releases/jsch-scripting/">
+    <information>
+        <title>jsch-scripting</title>
+        <description>jsch-scripting</description>
+    </information>
+    <fileset dir="xlib">
+        <file name="jsch-scripting-1.0-SNAPSHOT.jar"/>
+        <file name="TableLayout.jar"/>
+        <file name="jxl-2.6.12.jar"/>
+        <file name="jsch-0.1.54.jar"/>
+        <file name="rhino-1.7.11.jar"/>
+    </fileset>
+    <fileset dir="xbin">
+        <file name="aaa.sh"/>
+    </fileset>
+</deployment>
