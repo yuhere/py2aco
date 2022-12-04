@@ -4,6 +4,8 @@
         <title>jsch-scripting</title>
         <description>jsch-scripting</description>
     </information>
+    <fileset dir="lib">
+    </fileset>
     <fileset dir="xlib">
         <file name="bbb.jar"/>
     </fileset>
