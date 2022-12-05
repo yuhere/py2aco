@@ -4,9 +4,6 @@
         <title>jsch-scripting</title>
         <description>jsch-scripting</description>
     </information>
-    <fileset dir="bin">
-        <file name="au.cmd"/>
-    </fileset>
     <fileset dir="xlib">
         <file name="bbb.jar"/>
     </fileset>
