@@ -4,7 +4,7 @@
         <title>jsch-scripting</title>
         <description>jsch-scripting</description>
     </information>
-    <fileset dir="bin">'
+    <fileset dir="bin">
         <file name="au.cmd"/>
     </fileset>
     <fileset dir="xlib">
