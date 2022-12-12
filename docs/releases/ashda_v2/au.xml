@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deployment codebase="https://yuhere.github.io/py2aco/releases/ashda_v2">
+    <information>
+        <title>ASH Dump Analyzer</title>
+        <description>ASH Dump Analyzer</description>
+    </information>
+</deployment>
