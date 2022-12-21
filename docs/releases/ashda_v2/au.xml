@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<deployment codebase="https://yuhere.github.io/py2aco/releases/ashda_v2">
+<deployment codebase="https://yuhere.github.io/py2aco/releases/ashda/">
     <information>
-        <title>ASH Dump Analyzer</title>
-        <description>ASH Dump Analyzer</description>
+        <title>ASH Dump analyzer</title>
+        <vendor>Yu Peng</vendor>
+        <description>ASH Dump analyzer</description>
     </information>
+    <fileset dir="lib" clean="true">
+        <file name="jsch-0.1.55.jar"/>
+        <file name="jsch-scripting-core-1.0.2.jar"/>
+        <file name="rhino-1.7.14.jar"/>
+        <file name="TableLayout-20050920.jar"/>
+    </fileset>
+    <fileset dir="libx" clean="true">
+        <file name="ashda-2.0.2.jar"/>
+        <file name="commons-csv-1.9.0.jar"/>
+    </fileset>
 </deployment>
