@@ -7,7 +7,7 @@
     </information>
     <fileset dir="lib" clean="on">
         <file name="jsch-0.1.55.jar"/>
-        <file name="jsch-scripting-core-1.0.2.jar"/>
+        <file name="jsch-scripting-core-1.0.3.jar"/>
         <file name="rhino-1.7.14.jar"/>
         <file name="TableLayout-20050920.jar"/>
     </fileset>
