@@ -1,6 +1,10 @@
 {
     "updates": [
         {
+            "version": "0.1.2",
+            "update_link": "py2vscode-0.1.2.vsix"
+        },
+        {
             "version": "0.1.1",
             "update_link": "py2vscode-0.1.1.vsix"
         }
